@@ -19,10 +19,8 @@ a:active, a:visited, a:focus {
 	width: 100%;
 	display:table;
 	text-align: center;
-	background-color: #000;
 	color: #fff;
 	height: 100vh;
-	background: #fff url(../img/main-bg.jpg) center center no-repeat;
 }
 .main-overlay {
 	z-index: 1;
@@ -186,4 +184,4 @@ a:active, a:visited, a:focus {
   .social-links a {
   	font-size: 1.5rem;
   }
-}
+} 
